@@ -1,0 +1,21 @@
+h1,
+h2 {
+  font-family: Lato;
+}
+
+.btn {
+  position: absolute;
+  top: 50%;
+  height: 50px;
+  width: 140px;
+  border: 2px solid black;
+  border-radius: 20px;
+  background-color: deeppink;
+  color: black;
+  cursor: pointer;
+  font-size: large;
+}
+
+.container {
+  text-align: center;
+}
